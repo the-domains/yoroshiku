@@ -1,7 +1,7 @@
 name: Yoroshiku Fantastic K.K.
 favicon: null
-layout_spectrum: 0.9864239459857345
-typography_spectrum: 0.044301215559244156
+layout_spectrum: 1
+typography_spectrum: 0.50173
 cta:
   domain: null
   bucket: null
@@ -16,13 +16,11 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#F7EDF0'
-    - '#F4CBC6'
-    - '#F4AFAB'
-    - '#F4EEA9'
-    - '#F4F482'
-  brandStrength: 0.7006870482582599
-  lightness: 0.6036646571010351
-  saturation: 0.7457910052035004
-  rhythmicContrast: 0.96292455191724
+    - '#ffd204'
+    - '#694194'
+    - '#694193'
+  brandStrength: 0.5
+  lightness: 0.5
+  saturation: 0.5
+  rhythmicContrast: 1
 purpose: []
