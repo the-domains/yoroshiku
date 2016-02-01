@@ -1,15 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[Yoroshiku Fantastic K.K.]]></title>
-        <description><![CDATA[Yoroshiku Fantastic K.K.]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <title><![CDATA[YF]]></title>
+        <description><![CDATA[YF]]></description>
+        <link>https://thegrid.ai/yoroshiku/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 01 Feb 2016 03:55:33 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 01 Feb 2016 07:27:53 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/yoroshiku/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/cc07a80a-80bb-4101-97d3-441fd2cd46b9.png">]]></description>
+            <link>https://thegrid.ai/yoroshiku/dc3c5bd0-981f-45e6-818b-2f96cd436a40/index.html</link>
+            <guid isPermaLink="false">dc3c5bd0-981f-45e6-818b-2f96cd436a40</guid>
+            <pubDate>Mon, 01 Feb 2016 07:27:39 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/8865bfe4-185b-4e57-a321-952f2e9cafaf.jpg">]]></description>
-            <link>undefinede5780082-9e29-461d-9e99-4518b3b2a310/index.html</link>
+            <link>https://thegrid.ai/yoroshiku/e5780082-9e29-461d-9e99-4518b3b2a310/index.html</link>
             <guid isPermaLink="false">e5780082-9e29-461d-9e99-4518b3b2a310</guid>
             <pubDate>Mon, 01 Feb 2016 03:55:25 GMT</pubDate>
         </item>
