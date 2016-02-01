@@ -1,27 +1,41 @@
-name: Yoroshiku Fantastic K.K.
-favicon: null
-layout_spectrum: 1
-typography_spectrum: 0.50173
 title: YF
+purpose: []
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+color:
+  saturation: 1
+  brandStrength: 1
+  lightness: 1
+  brandColors:
+    - '#684192'
+    - '#FFD203'
+    - '#997E00'
+    - '#A38664'
+    - '#D0A4BC'
+  rhythmicContrast: 1
 cta:
-  domain: null
   bucket: null
   version: null
+  domain: null
 analytics:
+  twitter: null
   google: null
   facebook: null
-  twitter: null
+favicon: null
+name: Yoroshiku Fantastic K.K.
 opengraph:
   image: null
   type: null
   appId: null
-color:
-  brandColors:
-    - '#ffd204'
-    - '#694194'
-    - '#694193'
-  brandStrength: 0.5
-  lightness: 0.5
-  saturation: 0.5
-  rhythmicContrast: 1
-purpose: []
+typography_spectrum: 0.50173
+layout_spectrum: 1
